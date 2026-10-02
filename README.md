@@ -78,15 +78,3 @@ Intelligent symptom analysis to score patient urgency and automate specialist ro
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhavani23&layout=compact&theme=dark&hide_border=true" height="165"/>
 </p>
-
----
-
-### 🤝 Let's Connect
-
-<p>
-  <a href="https://linkedin.com/in/suhavani-pandey-3b9b37369"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:suhavani.2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
-
-Open to conversations on open source, machine learning, and collaboration opportunities.
-
