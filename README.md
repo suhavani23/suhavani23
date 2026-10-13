@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Suhavani 👋</h1>
 
-<h3 align="center">AI/ML Student | Open Source Contributor</h3>
+<h3 align="center">AI/ML Student | Full-Stack Builder | GSSoC '26 Contributor</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GSSoC-2026-orange?style=flat-square" />
@@ -16,19 +16,34 @@
 
 ### 👩‍💻 About Me
 
-AI/ML student building practical skills through projects and open source contribution. Currently part of GSSoC 2026.
+B.E. AI/ML student in Bengaluru building practical tools across AI, backend, and browser extensions, and contributing to open source through GSSoC 2026.
 
 ---
 
 ### 🚀 Featured Projects
 
-**[Repo-rag](https://github.com/suhavani23/Repo-rag)** — AI-powered codebase assistant
-Uses Retrieval-Augmented Generation (RAG) to enable instant search, understanding, and conversational interaction with local code repositories.
-`Python`
+**[FairHire 🛡️](https://github.com/suhavani23/FairHire)** — Job Trust & Safety Co-pilot (Chrome extension + FastAPI backend)
+Browser extension that audits job listings on Internshala, Naukri, and LinkedIn in real time. It combines a deterministic rules engine, Groq LLaMA 3.3 reasoning, and RDAP domain-age checks to flag scams, biased language, and missing pay transparency, then produces a 0–100 Trust Score. Runs in an isolated Shadow DOM UI and falls back to offline rules if the LLM is unavailable.
+`Python` `FastAPI` `Groq LLaMA 3.3` `Chrome MV3` `JavaScript`
 
-**[CareConnect](https://github.com/suhavani23/CareConnect)** — AI-driven hospital triage system
-Intelligent symptom analysis to score patient urgency and automate specialist routing for appointment scheduling.
-`JavaScript`
+**[express-auth-kit 🔐](https://github.com/suhavani23/express-auth-kit)** — Drop-in authentication for Express
+Adds Google OAuth (PKCE + CSRF protection) and email/password login to any Express app in minutes, with no Passport.js boilerplate. Includes secure password hashing, httpOnly cookie sessions, a `requireLogin` route guard, and an `onLogin` hook for saving users to any database. Fully configured through `.env`.
+`Node.js` `Express` `OAuth 2.0`
+
+**[stripe-billing-backend 💳](https://github.com/suhavani23/stripe-billing-backend)** — Subscription billing with Stripe Checkout and Webhooks
+Reusable module you can mount into any Express project with two lines. Handles webhook signature verification, idempotent checkout requests, and duplicate-event protection for Stripe's at-least-once delivery. Ships with an interactive demo and Jest tests.
+`Node.js` `Express` `MongoDB` `Stripe` `Jest`
+
+<details>
+<summary><b>More projects</b></summary>
+
+<br>
+
+**[Repo-rag](https://github.com/suhavani23/Repo-rag)** — AI-powered codebase assistant using Retrieval-Augmented Generation to search, understand, and chat with local code repositories. `Python`
+
+**[CareConnect](https://github.com/suhavani23/CareConnect)** — AI-driven hospital triage system that scores patient urgency and routes to specialists for appointment scheduling. `JavaScript`
+
+</details>
 
 ---
 
@@ -45,25 +60,8 @@ Intelligent symptom analysis to score patient urgency and automate specialist ro
 
 ### 🧰 Tech Stack
 
-**Languages**
-
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-</p>
-
-**ML / DL**
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-</p>
-
-**Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
